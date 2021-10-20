@@ -1,0 +1,185 @@
+<brush name="gfx/warhorse.png" version="17">
+  <sprite id="horse_charge" ic="FF1D1E3E" img="skills\horse_charge.png" />
+  <sprite id="active_524" ic="FF1D1E3E" img="skills\active_524.png" />  
+  <sprite id="bust_direwolf_head_100" offsetY="35" ic="FF5B7CAD" width="104" height="142" img="entity\wolf\bust_direvarg_01_head.png" left="-16" right="60" top="-44" bottom="47" />
+  <sprite id="bust_direwolf_head_100_injured" offsetY="35" ic="FF5B7CAD" width="104" height="142" img="entity\etc\aaa.png" left="-45" right="55" top="-40" bottom="40" />
+  <sprite id="bust_direwolf_head_100_dead" offsetX="6" offsetY="14" f="6401" ic="FF222630" width="131" height="125" img="entity\wolf\bust_direvarg_01_head_dead.png" left="-48" right="42" top="-56" bottom="42" />
+  <sprite id="bust_direwolf_body_100" offsetY="35" ic="FF4D719A" width="142" height="142" img="entity\wolf\bust_direvarg_01_body.png" left="-55" right="55" top="-48" bottom="48" />
+  <sprite id="bust_direwolf_body_100_injured" offsetY="35" ic="FF0E0E50" width="104" height="142" img="entity\wolf\bust_direvarg_01_injurned.png" left="-45" right="55" top="-40" bottom="40" />
+  <sprite id="bust_direwolf_body_100_dead" offsetX="-38" offsetY="24" f="6403" ic="FF1B1E2A" width="131" height="114" img="entity\wolf\bust_direvarg_01_body_dead.png" left="-99" right="97" top="-58" bottom="56" /> 
+  <sprite id="bust_horsehead_100" offsetY="35" ic="FF5B7CAD" width="104" height="142" img="entity\heads\bust_head_100.png" left="-6" right="44" top="-34" bottom="47" />
+  <sprite id="bust_horsehead_100_injured" offsetY="35" ic="FF5B7CAD" width="104" height="142" img="entity\heads\bust_head_100_injured.png" left="-6" right="44" top="-34" bottom="47" />
+  <sprite id="bust_horsehead_100_dead" offsetX="6" offsetY="10" f="64F6" f1="-15" f2="-15" ic="FF4F6C9D" width="131" height="125" img="entity\heads\bust_head_100_dead.png" left="-45" right="15" top="-56" bottom="0" />
+  <sprite id="bust_horsehead_101" offsetY="35" ic="FF5B7CAD" width="104" height="142" img="entity\heads\bust_head_101.png" left="-6" right="44" top="-34" bottom="47" />
+  <sprite id="bust_horsehead_101_injured" offsetY="35" ic="FF5B7CAD" width="104" height="142" img="entity\heads\bust_head_100_injured.png" left="-6" right="44" top="-34" bottom="47" />
+  <sprite id="bust_horsehead_101_dead" offsetX="6" offsetY="10" f="64F6" f1="-15" f2="-15" ic="FF4F6C9D" width="131" height="125" img="entity\heads\bust_head_101_dead.png" left="-45" right="15" top="-56" bottom="0" />
+  <sprite id="bust_horsehead_102" offsetY="35" ic="FF5B7CAD" width="104" height="142" img="entity\heads\bust_head_102.png" left="-6" right="44" top="-34" bottom="47" />
+  <sprite id="bust_horsehead_102_injured" offsetY="35" ic="FF5B7CAD" width="104" height="142" img="entity\heads\bust_head_100_injured.png" left="-6" right="44" top="-34" bottom="47" />
+  <sprite id="bust_horsehead_102_dead" offsetX="6" offsetY="10" f="64F6" f1="-15" f2="-15" ic="FF4F6C9D" width="131" height="125" img="entity\heads\bust_head_102_dead.png" left="-45" right="15" top="-56" bottom="0" />
+  <sprite id="bust_horsehead_103" offsetY="35" ic="FF5B7CAD" width="104" height="142" img="entity\heads\bust_head_103.png" left="-6" right="44" top="-34" bottom="47" />
+  <sprite id="bust_horsehead_103_injured" offsetY="35" ic="FF5B7CAD" width="104" height="142" img="entity\heads\bust_head_100_injured.png" left="-6" right="44" top="-34" bottom="47" />
+  <sprite id="bust_horsehead_103_dead" offsetX="6" offsetY="10" f="64F6" f1="-15" f2="-15" ic="FF4F6C9D" width="131" height="125" img="entity\heads\bust_head_103_dead.png" left="-45" right="15" top="-56" bottom="0" />
+  <sprite id="bust_horsehead_104" offsetY="35" ic="FF5B7CAD" width="104" height="142" img="entity\heads\bust_head_104.png" left="-6" right="44" top="-34" bottom="47" />
+  <sprite id="bust_horsehead_104_injured" offsetY="35" ic="FF5B7CAD" width="104" height="142" img="entity\heads\bust_head_100_injured.png" left="-6" right="44" top="-34" bottom="47" />
+  <sprite id="bust_horsehead_104_dead" offsetX="6" offsetY="10" f="64F6" f1="-15" f2="-15" ic="FF4F6C9D" width="131" height="125" img="entity\heads\bust_head_104_dead.png" left="-45" right="15" top="-56" bottom="0" />
+  <sprite id="bust_horsehead_105" offsetY="35" ic="FF5B7CAD" width="104" height="142" img="entity\heads\bust_head_105.png" left="-6" right="44" top="-34" bottom="47" />
+  <sprite id="bust_horsehead_105_injured" offsetY="35" ic="FF5B7CAD" width="104" height="142" img="entity\heads\bust_head_100_injured.png" left="-6" right="44" top="-34" bottom="47" />
+  <sprite id="bust_horsehead_105_dead" offsetX="6" offsetY="10" f="64F6" f1="-15" f2="-15" ic="FF4F6C9D" width="131" height="125" img="entity\heads\bust_head_105_dead.png" left="-45" right="15" top="-56" bottom="0" />
+  <sprite id="bust_horsehead_106" offsetY="35" ic="FF5B7CAD" width="104" height="142" img="entity\heads\bust_head_106.png" left="-6" right="44" top="-34" bottom="47" />
+  <sprite id="bust_horsehead_106_injured" offsetY="35" ic="FF5B7CAD" width="104" height="142" img="entity\heads\bust_head_100_injured.png" left="-6" right="44" top="-34" bottom="47" />
+  <sprite id="bust_horsehead_106_dead" offsetX="6" offsetY="10" f="64F6" f1="-15" f2="-15" ic="FF4F6C9D" width="131" height="125" img="entity\heads\bust_head_106_dead.png" left="-45" right="15" top="-56" bottom="0" />
+  <sprite id="bust_horsehead_107" offsetY="35" ic="FF5B7CAD" width="104" height="142" img="entity\heads\bust_head_107.png" left="-6" right="44" top="-34" bottom="47" />
+  <sprite id="bust_horsehead_107_injured" offsetY="35" ic="FF5B7CAD" width="104" height="142" img="entity\heads\bust_head_100_injured.png" left="-6" right="44" top="-34" bottom="47" />
+  <sprite id="bust_horsehead_107_dead" offsetX="6" offsetY="10" f="64F6" f1="-15" f2="-15" ic="FF4F6C9D" width="131" height="125" img="entity\heads\bust_head_107_dead.png" left="-45" right="15" top="-56" bottom="0" />
+  <sprite id="bust_horsenaked_body_100" offsetY="35" ic="FF4D719A" width="142" height="142" img="entity\bodies\bust_naked_body_100.png" top="-48" bottom="48" />
+  <sprite id="bust_horsenaked_body_100_dead" offsetX="6" offsetY="10" ic="FF374D76" width="131" height="114" img="entity\bodies\bust_naked_body_100_dead.png" left="-65" top="-57" bottom="53" />
+  <sprite id="bust_horsenaked_body_100_dead_arrows" offsetX="6" offsetY="10" f="64FB" ic="FF494D50" width="131" height="134" img="entity\bodies\bust_naked_body_100_dead_arrow.png" left="-28" right="8" top="-9" bottom="39" />
+  <sprite id="bust_horsenaked_body_100_dead_javelin" offsetX="6" offsetY="10" f="64FB" ic="FF111632" width="131" height="154" img="entity\bodies\bust_naked_body_100_dead_javelin.png" left="-25" right="21" top="-4" bottom="72" />
+  <sprite id="bust_horsenaked_body_100_injured" offsetY="35" ic="FF0E0E50" width="104" height="142" img="entity\bodies\bust_naked_body_100_injured.png" left="-41" right="39" top="-50" bottom="10" />
+  <sprite id="bust_horsenaked_body_101" offsetY="35" ic="FF4D719A" width="142" height="142" img="entity\bodies\bust_naked_body_101.png" top="-48" bottom="48" />
+  <sprite id="bust_horsenaked_body_101_dead" offsetX="6" offsetY="10" ic="FF374D76" width="131" height="114" img="entity\bodies\bust_naked_body_101_dead.png" left="-65" top="-57" bottom="53" />
+  <sprite id="bust_horsenaked_body_101_dead_arrows" offsetX="6" offsetY="10" f="64FB" ic="FF494D50" width="131" height="134" img="entity\bodies\bust_naked_body_100_dead_arrow.png" left="-28" right="8" top="-9" bottom="39" />
+  <sprite id="bust_horsenaked_body_101_dead_javelin" offsetX="6" offsetY="10" f="64FB" ic="FF111632" width="131" height="154" img="entity\bodies\bust_naked_body_100_dead_javelin.png" left="-25" right="21" top="-4" bottom="72" />
+  <sprite id="bust_horsenaked_body_101_injured" offsetY="35" ic="FF0E0E50" width="104" height="142" img="entity\bodies\bust_naked_body_100_injured.png" left="-41" right="39" top="-50" bottom="10" />
+  <sprite id="bust_horsenaked_body_102" offsetY="35" ic="FF4D719A" width="142" height="142" img="entity\bodies\bust_naked_body_102.png" top="-48" bottom="48" />
+  <sprite id="bust_horsenaked_body_102_dead" offsetX="6" offsetY="10" ic="FF374D76" width="131" height="114" img="entity\bodies\bust_naked_body_102_dead.png" left="-65" top="-57" bottom="53" />
+  <sprite id="bust_horsenaked_body_102_dead_arrows" offsetX="6" offsetY="10" f="64FB" ic="FF494D50" width="131" height="134" img="entity\bodies\bust_naked_body_100_dead_arrow.png" left="-28" right="8" top="-9" bottom="39" />
+  <sprite id="bust_horsenaked_body_102_dead_javelin" offsetX="6" offsetY="10" f="64FB" ic="FF111632" width="131" height="154" img="entity\bodies\bust_naked_body_100_dead_javelin.png" left="-25" right="21" top="-4" bottom="72" />
+  <sprite id="bust_horsenaked_body_102_injured" offsetY="35" ic="FF0E0E50" width="104" height="142" img="entity\bodies\bust_naked_body_100_injured.png" left="-41" right="39" top="-50" bottom="10" />
+  <sprite id="bust_horsenaked_body_103" offsetY="35" ic="FF4D719A" width="142" height="142" img="entity\bodies\bust_naked_body_103.png" top="-48" bottom="48" />
+  <sprite id="bust_horsenaked_body_103_dead" offsetX="6" offsetY="10" ic="FF374D76" width="131" height="114" img="entity\bodies\bust_naked_body_103_dead.png" left="-65" top="-57" bottom="53" />
+  <sprite id="bust_horsenaked_body_103_dead_arrows" offsetX="6" offsetY="10" f="64FB" ic="FF494D50" width="131" height="134" img="entity\bodies\bust_naked_body_100_dead_arrow.png" left="-28" right="8" top="-9" bottom="39" />
+  <sprite id="bust_horsenaked_body_103_dead_javelin" offsetX="6" offsetY="10" f="64FB" ic="FF111632" width="131" height="154" img="entity\bodies\bust_naked_body_100_dead_javelin.png" left="-25" right="21" top="-4" bottom="72" />
+  <sprite id="bust_horsenaked_body_103_injured" offsetY="35" ic="FF0E0E50" width="104" height="142" img="entity\bodies\bust_naked_body_100_injured.png" left="-41" right="39" top="-50" bottom="10" />
+  <sprite id="bust_horsenaked_body_104" offsetY="35" ic="FF4D719A" width="142" height="142" img="entity\bodies\bust_naked_body_104.png" top="-48" bottom="48" />
+  <sprite id="bust_horsenaked_body_104_dead" offsetX="6" offsetY="10" ic="FF374D76" width="131" height="114" img="entity\bodies\bust_naked_body_104_dead.png" left="-65" top="-57" bottom="53" />
+  <sprite id="bust_horsenaked_body_104_dead_arrows" offsetX="6" offsetY="10" f="64FB" ic="FF494D50" width="131" height="134" img="entity\bodies\bust_naked_body_100_dead_arrow.png" left="-28" right="8" top="-9" bottom="39" />
+  <sprite id="bust_horsenaked_body_104_dead_javelin" offsetX="6" offsetY="10" f="64FB" ic="FF111632" width="131" height="154" img="entity\bodies\bust_naked_body_100_dead_javelin.png" left="-25" right="21" top="-4" bottom="72" />
+  <sprite id="bust_horsenaked_body_104_injured" offsetY="35" ic="FF0E0E50" width="104" height="142" img="entity\bodies\bust_naked_body_100_injured.png" left="-41" right="39" top="-50" bottom="10" />
+  <sprite id="bust_horsenaked_body_105" offsetY="35" ic="FF4D719A" width="142" height="142" img="entity\bodies\bust_naked_body_105.png" top="-48" bottom="48" />
+  <sprite id="bust_horsenaked_body_105_dead" offsetX="6" offsetY="10" ic="FF374D76" width="131" height="114" img="entity\bodies\bust_naked_body_105_dead.png" left="-65" top="-57" bottom="53" />
+  <sprite id="bust_horsenaked_body_105_dead_arrows" offsetX="6" offsetY="10" f="64FB" ic="FF494D50" width="131" height="134" img="entity\bodies\bust_naked_body_100_dead_arrow.png" left="-28" right="8" top="-9" bottom="39" />
+  <sprite id="bust_horsenaked_body_105_dead_javelin" offsetX="6" offsetY="10" f="64FB" ic="FF111632" width="131" height="154" img="entity\bodies\bust_naked_body_100_dead_javelin.png" left="-25" right="21" top="-4" bottom="72" />
+  <sprite id="bust_horsenaked_body_105_injured" offsetY="35" ic="FF0E0E50" width="104" height="142" img="entity\bodies\bust_naked_body_100_injured.png" left="-41" right="39" top="-50" bottom="10" />
+  <sprite id="bust_horsenaked_body_105" offsetY="35" ic="FF4D719A" width="142" height="142" img="entity\bodies\bust_naked_body_105.png" top="-48" bottom="48" />
+  <sprite id="bust_horsenaked_body_105_dead" offsetX="6" offsetY="10" ic="FF374D76" width="131" height="114" img="entity\bodies\bust_naked_body_105_dead.png" left="-65" top="-57" bottom="53" />
+  <sprite id="bust_horsenaked_body_105_dead_arrows" offsetX="6" offsetY="10" f="64FB" ic="FF494D50" width="131" height="134" img="entity\bodies\bust_naked_body_100_dead_arrow.png" left="-28" right="8" top="-9" bottom="39" />
+  <sprite id="bust_horsenaked_body_105_dead_javelin" offsetX="6" offsetY="10" f="64FB" ic="FF111632" width="131" height="154" img="entity\bodies\bust_naked_body_100_dead_javelin.png" left="-25" right="21" top="-4" bottom="72" />
+  <sprite id="bust_horsenaked_body_105_injured" offsetY="35" ic="FF0E0E50" width="104" height="142" img="entity\bodies\bust_naked_body_100_injured.png" left="-41" right="39" top="-50" bottom="10" />
+  <sprite id="bust_horsenaked_body_106" offsetY="35" ic="FF4D719A" width="142" height="142" img="entity\bodies\bust_naked_body_106.png" top="-48" bottom="48" />
+  <sprite id="bust_horsenaked_body_106_dead" offsetX="6" offsetY="10" ic="FF374D76" width="131" height="114" img="entity\bodies\bust_naked_body_106_dead.png" left="-65" top="-57" bottom="53" />
+  <sprite id="bust_horsenaked_body_106_dead_arrows" offsetX="6" offsetY="10" f="64FB" ic="FF494D50" width="131" height="134" img="entity\bodies\bust_naked_body_100_dead_arrow.png" left="-28" right="8" top="-9" bottom="39" />
+  <sprite id="bust_horsenaked_body_106_dead_javelin" offsetX="6" offsetY="10" f="64FB" ic="FF111632" width="131" height="154" img="entity\bodies\bust_naked_body_100_dead_javelin.png" left="-25" right="21" top="-4" bottom="72" />
+  <sprite id="bust_horsenaked_naked_body_106_injured" offsetY="35" ic="FF0E0E50" width="104" height="142" img="entity\bodies\bust_naked_body_100_injured.png" left="-41" right="39" top="-50" bottom="10" />
+  <sprite id="bust_horsenaked_body_107" offsetY="35" ic="FF4D719A" width="142" height="142" img="entity\bodies\bust_naked_body_107.png" top="-48" bottom="48" />
+  <sprite id="bust_horsenaked_body_107_dead" offsetX="6" offsetY="10" ic="FF374D76" width="131" height="114" img="entity\bodies\bust_naked_body_107_dead.png" left="-65" top="-57" bottom="53" />
+  <sprite id="bust_horsenaked_body_107_dead_arrows" offsetX="6" offsetY="10" f="64FB" ic="FF494D50" width="131" height="134" img="entity\bodies\bust_naked_body_100_dead_arrow.png" left="-28" right="8" top="-9" bottom="39" />
+  <sprite id="bust_horsenaked_body_107_dead_javelin" offsetX="6" offsetY="10" f="64FB" ic="FF111632" width="131" height="154" img="entity\bodies\bust_naked_body_100_dead_javelin.png" left="-25" right="21" top="-4" bottom="72" />
+  <sprite id="bust_horsenaked_body_107_injured" offsetY="35" ic="FF0E0E50" width="104" height="142" img="entity\bodies\bust_naked_body_100_injured.png" left="-41" right="39" top="-50" bottom="10" />  
+  <sprite id="horse_armor_head_01" offsetY="35" ic="FF365A74" width="104" height="142" img="entity\helmets\horse_armor_hood_black_brown.png" left="-8" right="42" top="-34" bottom="47" />
+  <sprite id="horse_armor_head_01_damaged" offsetY="35" ic="FF365A74" width="104" height="142" img="entity\helmets\horse_armor_hood_black_brown_damaged.png" left="-8" right="42" top="-34" bottom="47" />
+  <sprite id="horse_armor_head_01_dead" offsetX="6" offsetY="10" f="64F6" f1="-15" f2="-15" ic="FF4F6C9D" width="131" height="125" img="entity\helmets\horse_armor_hood_black_brown_dead.png" left="-45" right="15" top="-56" bottom="0" />
+  <sprite id="horse_armor_head_02" offsetY="35" ic="FF365A74" width="104" height="142" img="entity\helmets\horse_armor_hood_black_yellow.png" left="-8" right="42" top="-34" bottom="47" />
+  <sprite id="horse_armor_head_02_damaged" offsetY="35" ic="FF365A74" width="104" height="142" img="entity\helmets\horse_armor_hood_black_yellow_damaged.png" left="-8" right="42" top="-34" bottom="47" />
+  <sprite id="horse_armor_head_02_dead" offsetX="6" offsetY="10" f="64F6" f1="-15" f2="-15" ic="FF4F6C9D" width="131" height="125" img="entity\helmets\horse_armor_hood_black_yellow_dead.png" left="-45" right="15" top="-56" bottom="0" />
+  <sprite id="horse_armor_head_03" offsetY="35" ic="FF365A74" width="104" height="142" img="entity\helmets\horse_armor_hood_yellow_red.png" left="-8" right="42" top="-34" bottom="47" />
+  <sprite id="horse_armor_head_03_damaged" offsetY="35" ic="FF365A74" width="104" height="142" img="entity\helmets\horse_armor_hood_yellow_red_damaged.png" left="-8" right="42" top="-34" bottom="47" />
+  <sprite id="horse_armor_head_03_dead" offsetX="6" offsetY="10" f="64F6" f1="-15" f2="-15" ic="FF4F6C9D" width="131" height="125" img="entity\helmets\horse_armor_hood_yellow_red_dead.png" left="-45" right="15" top="-56" bottom="0" />  
+  <sprite id="horse_armor_head_04" offsetY="35" ic="FF365A74" width="104" height="142" img="entity\helmets\horse_armor_hood_blue_green.png" left="-6" right="44" top="-34" bottom="47" />
+  <sprite id="horse_armor_head_04_damaged" offsetY="35" ic="FF365A74" width="104" height="142" img="entity\helmets\horse_armor_hood_blue_green_damaged.png" left="-6" right="44" top="-34" bottom="47" />
+  <sprite id="horse_armor_head_04_dead" offsetX="6" offsetY="10" f="64F6" f1="-15" f2="-15" ic="FF4F6C9D" width="131" height="125" img="entity\helmets\horse_armor_hood_blue_green_dead.png" left="-45" right="15" top="-56" bottom="0" />
+  <sprite id="horse_armor_head_05" offsetY="35" ic="FF365A74" width="104" height="142" img="entity\helmets\horse_armor_hood_blue_red.png" left="-6" right="44" top="-34" bottom="47" />
+  <sprite id="horse_armor_head_05_damaged" offsetY="35" ic="FF365A74" width="104" height="142" img="entity\helmets\horse_armor_hood_blue_red_damaged.png" left="-6" right="44" top="-34" bottom="47" />
+  <sprite id="horse_armor_head_05_dead" offsetX="6" offsetY="10" f="64F6" f1="-15" f2="-15" ic="FF4F6C9D" width="131" height="125" img="entity\helmets\horse_armor_hood_blue_red_dead.png" left="-45" right="15" top="-56" bottom="0" />
+  <sprite id="horse_armor_head_06" offsetY="35" ic="FF365A74" width="104" height="142" img="entity\helmets\horse_armor_hood_blue_white.png" left="-6" right="44" top="-34" bottom="47" />
+  <sprite id="horse_armor_head_06_damaged" offsetY="35" ic="FF365A74" width="104" height="142" img="entity\helmets\horse_armor_hood_blue_white_damaged.png" left="-6" right="44" top="-34" bottom="47" />
+  <sprite id="horse_armor_head_06_dead" offsetX="6" offsetY="10" f="64F6" f1="-15" f2="-15" ic="FF4F6C9D" width="131" height="125" img="entity\helmets\horse_armor_hood_blue_white_dead.png" left="-45" right="15" top="-56" bottom="0" /> 
+  <sprite id="horse_armor_head_07" offsetY="35" ic="FF365A74" width="104" height="142" img="entity\helmets\horse_armor_hood_blue_yellow.png" left="-6" right="44" top="-34" bottom="47" />
+  <sprite id="horse_armor_head_07_damaged" offsetY="35" ic="FF365A74" width="104" height="142" img="entity\helmets\horse_armor_hood_blue_yellow_damaged.png" left="-6" right="44" top="-34" bottom="47" />
+  <sprite id="horse_armor_head_07_dead" offsetX="6" offsetY="10" f="64F6" f1="-15" f2="-15" ic="FF4F6C9D" width="131" height="125" img="entity\helmets\horse_armor_hood_blue_yellow_dead.png" left="-45" right="15" top="-56" bottom="0" />
+  <sprite id="horse_armor_head_08" offsetY="35" ic="FF365A74" width="104" height="142" img="entity\helmets\horse_armor_hood_brown.png" left="-6" right="44" top="-34" bottom="47" />
+  <sprite id="horse_armor_head_08_damaged" offsetY="35" ic="FF365A74" width="104" height="142" img="entity\helmets\horse_armor_hood_brown_damaged.png" left="-6" right="44" top="-34" bottom="47" />
+  <sprite id="horse_armor_head_08_dead" offsetX="6" offsetY="10" f="64F6" f1="-15" f2="-15" ic="FF4F6C9D" width="131" height="125" img="entity\helmets\horse_armor_hood_brown_dead.png" left="-45" right="15" top="-56" bottom="0" />
+  <sprite id="horse_armor_head_09" offsetY="35" ic="FF365A74" width="104" height="142" img="entity\helmets\horse_armor_hood_green_yellow.png" left="-6" right="44" top="-34" bottom="47" />
+  <sprite id="horse_armor_head_09_damaged" offsetY="35" ic="FF365A74" width="104" height="142" img="entity\helmets\horse_armor_hood_green_yellow_damaged.png" left="-6" right="44" top="-34" bottom="47" />
+  <sprite id="horse_armor_head_09_dead" offsetX="6" offsetY="10" f="64F6" f1="-15" f2="-15" ic="FF4F6C9D" width="131" height="125" img="entity\helmets\horse_armor_hood_green_yellow_dead.png" left="-45" right="15" top="-56" bottom="0" />
+  <sprite id="horse_armor_head_10" offsetY="35" ic="FF365A74" width="104" height="142" img="entity\helmets\horse_armor_hood_red_yellow.png" left="-6" right="44" top="-34" bottom="47" />
+  <sprite id="horse_armor_head_10_damaged" offsetY="35" ic="FF365A74" width="104" height="142" img="entity\helmets\horse_armor_hood_red_yellow_damaged.png" left="-6" right="44" top="-34" bottom="47" />
+  <sprite id="horse_armor_head_10_dead" offsetX="6" offsetY="10" f="64F6" f1="-15" f2="-15" ic="FF4F6C9D" width="131" height="125" img="entity\helmets\horse_armor_hood_red_yellow_dead.png" left="-45" right="15" top="-56" bottom="0" />
+  <sprite id="horse_armor_head_11" offsetY="35" ic="FF365A74" width="104" height="142" img="entity\helmets\horse_armor_hood_white_black.png" left="-6" right="44" top="-34" bottom="47" />
+  <sprite id="horse_armor_head_11_damaged" offsetY="35" ic="FF365A74" width="104" height="142" img="entity\helmets\horse_armor_hood_white_black_damaged.png" left="-6" right="44" top="-34" bottom="47" />
+  <sprite id="horse_armor_head_11_dead" offsetX="6" offsetY="10" f="64F6" f1="-15" f2="-15" ic="FF4F6C9D" width="131" height="125" img="entity\helmets\horse_armor_hood_white_black_dead.png" left="-45" right="15" top="-56" bottom="0" />  
+  <sprite id="horse_armor_head_12" offsetY="35" ic="FF365A74" width="104" height="142" img="entity\helmets\horse_armor_hood_black_white.png" left="-6" right="44" top="-34" bottom="47" />
+  <sprite id="horse_armor_head_12_damaged" offsetY="35" ic="FF365A74" width="104" height="142" img="entity\helmets\horse_armor_hood_black_white_damaged.png" left="-6" right="44" top="-34" bottom="47" />
+  <sprite id="horse_armor_head_12_dead" offsetX="6" offsetY="10" f="64F6" f1="-15" f2="-15" ic="FF4F6C9D" width="131" height="125" img="entity\helmets\horse_armor_hood_black_white_dead.png" left="-45" right="15" top="-56" bottom="0" /> 
+  <sprite id="horse_armor_head_13" offsetY="35" ic="FF365A74" width="104" height="142" img="entity\helmets\horse_armor_hood_leather.png" left="-6" right="44" top="-34" bottom="47" />
+  <sprite id="horse_armor_head_13_damaged" offsetY="35" ic="FF365A74" width="104" height="142" img="entity\helmets\horse_armor_hood_leather_damaged.png" left="-6" right="44" top="-34" bottom="47" />
+  <sprite id="horse_armor_head_13_dead" offsetX="6" offsetY="10" f="64F6" f1="-15" f2="-15" ic="FF4F6C9D" width="131" height="125" img="entity\helmets\horse_armor_hood_leather_dead.png" left="-45" right="15" top="-56" bottom="0" />
+  <sprite id="horse_armor_head_14" offsetY="35" ic="FF365A74" width="104" height="142" img="entity\helmets\horse_armor_hood_plate.png" left="-6" right="44" top="-34" bottom="47" />
+  <sprite id="horse_armor_head_14_damaged" offsetY="35" ic="FF365A74" width="104" height="142" img="entity\helmets\horse_armor_hood_plate_damaged.png" left="-6" right="44" top="-34" bottom="47" />
+  <sprite id="horse_armor_head_14_dead" offsetX="6" offsetY="10" f="64F6" f1="-15" f2="-15" ic="FF4F6C9D" width="131" height="125" img="entity\helmets\horse_armor_hood_plate_dead.png" left="-45" right="15" top="-56" bottom="0" />
+  <sprite id="horse_armor_head_15" offsetY="35" ic="FF365A74" width="104" height="142" img="entity\helmets\horse_armor_hood_plate_gold.png" left="-6" right="44" top="-34" bottom="47" />
+  <sprite id="horse_armor_head_15_damaged" offsetY="35" ic="FF365A74" width="104" height="142" img="entity\helmets\horse_armor_hood_plate_gold_damaged.png" left="-6" right="44" top="-34" bottom="47" />
+  <sprite id="horse_armor_head_15_dead" offsetX="6" offsetY="10" f="64F6" f1="-15" f2="-15" ic="FF4F6C9D" width="131" height="125" img="entity\helmets\horse_armor_hood_plate_gold_dead.png" left="-45" right="15" top="-56" bottom="0" />
+  <sprite id="horse_armor_head_16" offsetY="35" ic="FF365A74" width="104" height="142" img="entity\helmets\horse_armor_hood_plate_heavy.png" left="-6" right="44" top="-34" bottom="47" />
+  <sprite id="horse_armor_head_16_damaged" offsetY="35" ic="FF365A74" width="104" height="142" img="entity\helmets\horse_armor_hood_plate_heavy_damaged.png" left="-6" right="44" top="-34" bottom="47" />
+  <sprite id="horse_armor_head_16_dead" offsetX="6" offsetY="10" f="64F6" f1="-15" f2="-15" ic="FF4F6C9D" width="131" height="125" img="entity\helmets\horse_armor_hood_plate_heavy_dead.png" left="-45" right="15" top="-56" bottom="0" />  
+  <sprite id="horse_armor_body_01" offsetY="35" ic="FF4D719A" width="142" height="142" img="entity\armor\horse_armor_leather.png" top="-48" bottom="48" />
+  <sprite id="horse_armor_body_01_damaged" offsetY="35" ic="FF4D719A" width="142" height="142" img="entity\armor\horse_armor_leather_damaged.png" top="-48" bottom="48" />
+  <sprite id="horse_armor_body_01_dead" offsetX="6" offsetY="10" ic="FF374D76" width="131" height="114" img="entity\armor\horse_armor_leather_dead.png" left="-65" top="-57" bottom="53" /> 
+  <sprite id="horse_armor_body_02" offsetY="35" ic="FF4D719A" width="142" height="142" img="entity\armor\horse_armor_plate.png" top="-48" bottom="48" />
+  <sprite id="horse_armor_body_02_damaged" offsetY="35" ic="FF4D719A" width="142" height="142" img="entity\armor\horse_armor_plate_damaged.png" top="-48" bottom="48" />
+  <sprite id="horse_armor_body_02_dead" offsetX="6" offsetY="10" ic="FF374D76" width="131" height="114" img="entity\armor\horse_armor_plate_dead.png" left="-65" top="-57" bottom="53" />
+  <sprite id="horse_armor_body_03" offsetY="35" ic="FF4D719A" width="142" height="142" img="entity\armor\horse_armor_gold.png" top="-48" bottom="48" />
+  <sprite id="horse_armor_body_03_damaged" offsetY="35" ic="FF4D719A" width="142" height="142" img="entity\armor\horse_armor_gold_damaged.png" top="-48" bottom="48" />
+  <sprite id="horse_armor_body_03_dead" offsetX="6" offsetY="10" ic="FF374D76" width="131" height="114" img="entity\armor\horse_armor_gold_dead.png" left="-65" top="-57" bottom="53" />
+  <sprite id="horse_armor_body_04" offsetY="35" ic="FF4D719A" width="142" height="142" img="entity\armor\horse_armor_heavy.png" top="-48" bottom="48" />
+  <sprite id="horse_armor_body_04_damaged" offsetY="35" ic="FF4D719A" width="142" height="142" img="entity\armor\horse_armor_heavy_damaged.png" top="-48" bottom="48" />
+  <sprite id="horse_armor_body_04_dead" offsetX="6" offsetY="10" ic="FF374D76" width="131" height="114" img="entity\armor\horse_armor_heavy_dead.png" left="-65" top="-57" bottom="53" />  
+  <sprite id="horse_armor_capa_01" offsetY="35" ic="FF4D719A" width="142" height="142" img="entity\armor\horse_caparison_black.png" top="-48" bottom="48" />
+  <sprite id="horse_armor_capa_01_damaged" offsetY="35" ic="FF4D719A" width="142" height="142" img="entity\armor\horse_caparison_black_damaged.png" top="-48" bottom="48" />
+  <sprite id="horse_armor_capa_01_dead" offsetX="6" offsetY="10" ic="FF374D76" width="131" height="114" img="entity\armor\horse_caparison_black_dead.png" left="-65" top="-57" bottom="53" />
+  <sprite id="horse_armor_capa_02" offsetY="35" ic="FF4D719A" width="142" height="142" img="entity\armor\horse_caparison_blue_green.png" top="-48" bottom="48" />
+  <sprite id="horse_armor_capa_02_damaged" offsetY="35" ic="FF4D719A" width="142" height="142" img="entity\armor\horse_caparison_blue_green_damaged.png" top="-48" bottom="48" />
+  <sprite id="horse_armor_capa_02_dead" offsetX="6" offsetY="10" ic="FF374D76" width="131" height="114" img="entity\armor\horse_caparison_blue_green_dead.png" left="-65" top="-57" bottom="53" />
+  <sprite id="horse_armor_capa_03" offsetY="35" ic="FF4D719A" width="142" height="142" img="entity\armor\horse_caparison_blue_red.png" top="-48" bottom="48" />
+  <sprite id="horse_armor_capa_03_damaged" offsetY="35" ic="FF4D719A" width="142" height="142" img="entity\armor\horse_caparison_blue_red_damaged.png" top="-48" bottom="48" />
+  <sprite id="horse_armor_capa_03_dead" offsetX="6" offsetY="10" ic="FF374D76" width="131" height="114" img="entity\armor\horse_caparison_blue_red_dead.png" left="-65" top="-57" bottom="53" />
+  <sprite id="horse_armor_capa_04" offsetY="35" ic="FF4D719A" width="142" height="142" img="entity\armor\horse_caparison_blue_white.png" top="-48" bottom="48" />
+  <sprite id="horse_armor_capa_04_damaged" offsetY="35" ic="FF4D719A" width="142" height="142" img="entity\armor\horse_caparison_blue_white_damaged.png" top="-48" bottom="48" />
+  <sprite id="horse_armor_capa_04_dead" offsetX="6" offsetY="10" ic="FF374D76" width="131" height="114" img="entity\armor\horse_caparison_blue_white_dead.png" left="-65" top="-57" bottom="53" />
+  <sprite id="horse_armor_capa_05" offsetY="35" ic="FF4D719A" width="142" height="142" img="entity\armor\horse_caparison_blue_yellow.png" top="-48" bottom="48" />
+  <sprite id="horse_armor_capa_05_damaged" offsetY="35" ic="FF4D719A" width="142" height="142" img="entity\armor\horse_caparison_blue_yellow_damaged.png" top="-48" bottom="48" />
+  <sprite id="horse_armor_capa_05_dead" offsetX="6" offsetY="10" ic="FF374D76" width="131" height="114" img="entity\armor\horse_caparison_blue_yellow_dead.png" left="-65" top="-57" bottom="53" />
+  <sprite id="horse_armor_capa_06" offsetY="35" ic="FF4D719A" width="142" height="142" img="entity\armor\horse_caparison_brown.png" top="-48" bottom="48" />
+  <sprite id="horse_armor_capa_06_damaged" offsetY="35" ic="FF4D719A" width="142" height="142" img="entity\armor\horse_caparison_brown_damaged.png" top="-48" bottom="48" />
+  <sprite id="horse_armor_capa_06_dead" offsetX="6" offsetY="10" ic="FF374D76" width="131" height="114" img="entity\armor\horse_caparison_brown_dead.png" left="-65" top="-57" bottom="53" />
+  <sprite id="horse_armor_capa_07" offsetY="35" ic="FF4D719A" width="142" height="142" img="entity\armor\horse_caparison_green_yellow.png" top="-48" bottom="48" />
+  <sprite id="horse_armor_capa_07_damaged" offsetY="35" ic="FF4D719A" width="142" height="142" img="entity\armor\horse_caparison_green_yellow_damaged.png" top="-48" bottom="48" />
+  <sprite id="horse_armor_capa_07_dead" offsetX="6" offsetY="10" ic="FF374D76" width="131" height="114" img="entity\armor\horse_caparison_green_yellow_dead.png" left="-65" top="-57" bottom="53" />
+  <sprite id="horse_armor_capa_08" offsetY="35" ic="FF4D719A" width="142" height="142" img="entity\armor\horse_caparison_red_yellow.png" top="-48" bottom="48" />
+  <sprite id="horse_armor_capa_08_damaged" offsetY="35" ic="FF4D719A" width="142" height="142" img="entity\armor\horse_caparison_red_yellow_damaged.png" top="-48" bottom="48" />
+  <sprite id="horse_armor_capa_08_dead" offsetX="6" offsetY="10" ic="FF374D76" width="131" height="114" img="entity\armor\horse_caparison_red_yellow_dead.png" left="-65" top="-57" bottom="53" />
+  <sprite id="horse_armor_capa_09" offsetY="35" ic="FF4D719A" width="142" height="142" img="entity\armor\horse_caparison_white_black.png" top="-48" bottom="48" />
+  <sprite id="horse_armor_capa_09_damaged" offsetY="35" ic="FF4D719A" width="142" height="142" img="entity\armor\horse_caparison_white_black_damaged.png" top="-48" bottom="48" />
+  <sprite id="horse_armor_capa_09_dead" offsetX="6" offsetY="10" ic="FF374D76" width="131" height="114" img="entity\armor\horse_caparison_white_black_dead.png" left="-65" top="-57" bottom="53" />
+  <sprite id="bust_lindwurm_head_100" offsetY="35" ic="FF5B7CAD" width="104" height="142" img="entity\dragon\bust_lindwurm_head_01.png" left="-8" right="52" top="-27" bottom="66" />
+  <sprite id="bust_lindwurm_head_100_injured" offsetY="43" ic="FF0E0E50" width="104" height="142" img="entity\etc\aaa.png" left="-46" right="46" top="-62" bottom="62" />
+  <sprite id="bust_lindwurm_head_100_dead"  offsetX="5" offsetY="20" f="6401" f1="-5" f2="-25" ic="FF315E5F" width="179" height="154" img="entity\dragon\bust_lindwurm_head_01_dead.png" left="-70" right="30" top="-47" bottom="11" />
+  <sprite id="bust_lindwurm_body_100" offsetY="35" ic="FF4D719A" width="142" height="142" img="entity\dragon\bust_lindwurm_body_01.png" top="-48" bottom="84" />
+  <sprite id="bust_lindwurm_body_100_dead" offsetX="5" offsetY="20" f="6403" ic="FF295850" width="179" height="154" img="entity\dragon\bust_lindwurm_body_01_dead.png" left="-74" right="76" top="-50" bottom="48" />
+  <sprite id="bust_lindwurm_body_100_injured" offsetY="43" ic="FF0E0E50" width="104" height="142" img="entity\dragon\bust_lindwurm_body_01_injured.png" left="-46" right="46" top="-62" bottom="62" />  
+  <sprite id="bust_dragon_head_103" offsetY="35" ic="FF5B7CAD" width="124" height="142" img="entity\dragon\bust_lindwurm_03_head.png" left="-10" right="92" top="-2" bottom="90" />
+  <sprite id="bust_dragon_head_103a" offsetY="35" ic="FF5B7CAD" width="124" height="142" img="entity\dragon\bust_lindwurm_03_head.png" left="-40" right="62" top="13" bottom="105" />  
+  <sprite id="bust_dragon_head_103_injured" offsetX="6" offsetY="44" ic="FF0E0E50" width="104" height="142" img="entity\etc\aaa.png" left="-50" right="49" top="-50" bottom="50" /> 
+  <sprite id="bust_dragon_head_103_dead" offsetX="5" offsetY="-2" f="6401" f1="-5" f2="-25" ic="FF315E5F" width="179" height="154" img="entity\dragon\bust_lindwurm_03_head_dead.png" left="-60" right="23" top="-47" bottom="47" />
+  <sprite id="bust_dragon_body_103" offsetY="35" ic="FF4D719A" width="142" height="170" img="entity\dragon\bust_lindwurm_03_body.png" left="-55" right="55" top="-48" bottom="70" />
+  <sprite id="bust_dragon_body_103_a" offsetY="35" ic="FF4D719A" width="142" height="170" img="entity\dragon\bust_lindwurm_03_body_a.png" left="-47" right="47" top="-48" bottom="88" />  
+  <sprite id="bust_dragon_body_103_dead" offsetX="5" offsetY="20" f="6403" ic="FF295850" width="179" height="154" img="entity\dragon\bust_lindwurm_03_body_dead.png" left="-84" right="86" top="-67" bottom="65" />
+  <sprite id="bust_dragon_body_103_injured" offsetX="6" offsetY="44" ic="FF0E0E50" width="104" height="142" img="entity\dragon\bust_lindwurm_03_body_injured.png" left="-50" right="49" top="-50" bottom="50" /> 
+  <sprite id="bust_dragon_body_103_injureda" offsetX="5" offsetY="53" ic="FF0E0E50" width="104" height="142" img="entity\dragon\bust_lindwurm_03_body_injureda.png" left="-47" right="47" top="-53" bottom="53" />    
+  <sprite id="bust_lindwurm_tail_03" offsetY="35" ic="FF265651" width="104" height="142" img="entity\dragon\bust_lindwurm_03_tail.png" left="-54" right="55" top="-51" bottom="53" />
+  <sprite id="bust_lindwurm_tail_03_dead" offsetX="5" offsetY="20" f="6403" ic="FF28534D" width="179" height="154" img="entity\dragon\bust_lindwurm_03_tail_dead.png" left="-72" right="66" top="-31" bottom="39" />
+  <sprite id="bust_lindwurm_tail_03_injured" offsetX="-9" offsetY="32" ic="FF589B7A" width="104" height="142" img="entity\dragon\bust_lindwurm_03_tail_injured.png" left="-44" right="46" top="-50" bottom="54" />
+  <sprite id="bust_lindwurm_head_03_bloodpool" offsetX="5" offsetY="20" f="6420" f1="-5" f2="-25" width="179" height="154" img="entity\dragon\bust_lindwurm_03_head_bloodpool.png" left="-45" right="29" top="-61" bottom="3" />
+</brush>
